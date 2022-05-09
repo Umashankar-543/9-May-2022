@@ -1,0 +1,7 @@
+write a program to remove student details in dictionary.
+-----------------------------------------------------------
+d={1:('ram',20),2:('srav',30),3:('ravi',40)}
+d.clear()
+print(d)
+output:
+{}
